@@ -69,6 +69,5 @@ The integrity of workflow executions hinges on two standard algorithmic graph me
 
 ## Screenshots
 
-![Workflow](./assets/screenshot1.jpeg)
-![Templates](./assets/screenshot2.jpeg)
-
+![Workflow](./src/assets/screenshot1.jpeg)
+![Templates](./src/assets/screenshot2.jpeg)
