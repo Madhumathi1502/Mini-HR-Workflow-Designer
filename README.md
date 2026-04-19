@@ -69,5 +69,6 @@ The integrity of workflow executions hinges on two standard algorithmic graph me
 
 ## Screenshots
 
-![Workflow](./src/assets/screenshot1.jpeg)
-![Templates](./src/assets/screenshot2.jpeg)
+
+![Workflow](https://raw.githubusercontent.com/Madhumathi1502/Mini-HR-Workflow-Designer/main/src/assets/screenshot1.jpeg)
+![Templates](https://raw.githubusercontent.com/Madhumathi1502/Mini-HR-Workflow-Designer/main/src/assets/screenshot2.jpeg)
