@@ -66,3 +66,9 @@ The integrity of workflow executions hinges on two standard algorithmic graph me
 - **Strict Strict-Mode Enforcement**: Sometimes maintaining perfect generic interfaces forces minor structural workarounds across library wrappers like `xyflow` prop arrays natively parsing strings vs literal unions.
 - **Mocking Overhead**: Using MSW dictates manual endpoint scaling when shifting to production; but separating `client.ts` abstracts this cleanly enough.
 - **Multiple Endings**: Validating more than one root exit path throws a warning but allows execution. In production runtime automation schemas, split-endings potentially duplicate email bursts.
+
+## Screenshots
+
+![Workflow](./assets/screenshot1.png)
+![Templates](./assets/screenshot2.png)
+
